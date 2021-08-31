@@ -1,8 +1,6 @@
 # IoT_Project_Piano_Everywhere
 VPiano - Virtual Piano
 
-Project Video : https://youtu.be/nvlthkaf8gk
-
 Objective: an accessible and portable Virtual Piano designed to create opportunities for those wanting to learn playing the
 piano remotely, allowing real-time interaction between a teacher and their students.
 
@@ -40,6 +38,9 @@ drawn or printed on the paper.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/83713372/131478649-1664c3ed-a80c-4e54-9674-73b4e3f4dc93.jpeg" width="300" title="">
 </p>
+
+Project Video : https://youtu.be/nvlthkaf8gk 
+PS: the sticker shown in the video can be placed on any fingertip.
 
 
 
