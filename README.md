@@ -40,6 +40,7 @@ drawn or printed on the paper.
 </p>
 
 Project Video : https://youtu.be/nvlthkaf8gk 
+
 PS: the sticker shown in the video can be placed on any fingertip.
 
 
