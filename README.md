@@ -16,7 +16,7 @@ and documented feedback.
 
 2. The teacher plays the desired notes, then chooses the student he would like to send them to.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/83713372/131477561-a96184d2-11f8-4daa-acb9-0b869e275fd9.jpg" width="200" title="">
+  <img src="https://user-images.githubusercontent.com/83713372/131477561-a96184d2-11f8-4daa-acb9-0b869e275fd9.jpg" width="300" title="">
 </p>
 
 3. The student has the option to disregard the lesson or accept it.
